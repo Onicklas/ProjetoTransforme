@@ -1,0 +1,29 @@
+C:\Users\nicolas.lsilva5\Documents\Visual Studio 2019\TRANSformeSe\LojahAbc\bin\Debug\LojahAbc.exe.config
+C:\Users\nicolas.lsilva5\Documents\Visual Studio 2019\TRANSformeSe\LojahAbc\bin\Debug\LojahAbc.exe
+C:\Users\nicolas.lsilva5\Documents\Visual Studio 2019\TRANSformeSe\LojahAbc\bin\Debug\LojahAbc.pdb
+C:\Users\nicolas.lsilva5\Documents\Visual Studio 2019\TRANSformeSe\LojahAbc\obj\Debug\LojahAbc.csproj.AssemblyReference.cache
+C:\Users\nicolas.lsilva5\Documents\Visual Studio 2019\TRANSformeSe\LojahAbc\obj\Debug\LojahAbc.Properties.Resources.resources
+C:\Users\nicolas.lsilva5\Documents\Visual Studio 2019\TRANSformeSe\LojahAbc\obj\Debug\LojahAbc.csproj.GenerateResource.cache
+C:\Users\nicolas.lsilva5\Documents\Visual Studio 2019\TRANSformeSe\LojahAbc\obj\Debug\LojahAbc.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.lsilva5\Documents\Visual Studio 2019\TRANSformeSe\LojahAbc\obj\Debug\LojahAbc.exe
+C:\Users\nicolas.lsilva5\Documents\Visual Studio 2019\TRANSformeSe\LojahAbc\obj\Debug\LojahAbc.pdb
+C:\Users\nicolas.lsilva5\Documents\Visual Studio 2019\TRANSformeSe\LojahAbc\obj\Debug\LojahAbc.frmSplash.resources
+C:\Users\nicolas.lsilva5\Documents\Visual Studio 2019\TRANSformeSe\LojahAbc\obj\Debug\LojahAbc.frmLogin.resources
+C:\Users\nicolas.lsilva5\Documents\Visual Studio 2019\TRANSformeSe\LojahAbc\obj\Debug\LojahAbc.frmMenuPrincipal.resources
+C:\Users\nicolas.lsilva5\Documents\Visual Studio 2019\TRANSformeSe\LojahAbc\obj\Debug\LojahAbc.frmfuncionarios.resources
+C:\Users\nicolas.lsilva5\Documents\Visual Studio 2019\TRANSformeSe\LojahAbc\obj\Debug\LojahAbc.frmPesquisarFuncionarios.resources
+C:\Users\nicolas.lsilva5\Documents\ProjetoCSharp-transformeSe\LojahAbc\bin\Debug\LojahAbc.exe.config
+C:\Users\nicolas.lsilva5\Documents\ProjetoCSharp-transformeSe\LojahAbc\bin\Debug\LojahAbc.exe
+C:\Users\nicolas.lsilva5\Documents\ProjetoCSharp-transformeSe\LojahAbc\bin\Debug\LojahAbc.pdb
+C:\Users\nicolas.lsilva5\Documents\ProjetoCSharp-transformeSe\LojahAbc\obj\Debug\LojahAbc.csproj.AssemblyReference.cache
+C:\Users\nicolas.lsilva5\Documents\ProjetoCSharp-transformeSe\LojahAbc\obj\Debug\LojahAbc.frmfuncionarios.resources
+C:\Users\nicolas.lsilva5\Documents\ProjetoCSharp-transformeSe\LojahAbc\obj\Debug\LojahAbc.frmLogin.resources
+C:\Users\nicolas.lsilva5\Documents\ProjetoCSharp-transformeSe\LojahAbc\obj\Debug\LojahAbc.frmMenuPrincipal.resources
+C:\Users\nicolas.lsilva5\Documents\ProjetoCSharp-transformeSe\LojahAbc\obj\Debug\LojahAbc.frmPesquisarFuncionarios.resources
+C:\Users\nicolas.lsilva5\Documents\ProjetoCSharp-transformeSe\LojahAbc\obj\Debug\LojahAbc.frmSplash.resources
+C:\Users\nicolas.lsilva5\Documents\ProjetoCSharp-transformeSe\LojahAbc\obj\Debug\LojahAbc.Properties.Resources.resources
+C:\Users\nicolas.lsilva5\Documents\ProjetoCSharp-transformeSe\LojahAbc\obj\Debug\LojahAbc.csproj.GenerateResource.cache
+C:\Users\nicolas.lsilva5\Documents\ProjetoCSharp-transformeSe\LojahAbc\obj\Debug\LojahAbc.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.lsilva5\Documents\ProjetoCSharp-transformeSe\LojahAbc\obj\Debug\LojahAbc.exe
+C:\Users\nicolas.lsilva5\Documents\ProjetoCSharp-transformeSe\LojahAbc\obj\Debug\LojahAbc.pdb
+C:\Users\nicolas.lsilva5\Documents\ProjetoCSharp-transformeSe\LojahAbc\obj\Debug\LojahAbc.frmSobre.resources
