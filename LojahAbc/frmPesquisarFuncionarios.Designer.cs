@@ -68,8 +68,7 @@ namespace LojahAbc
             this.ptcblubpinguim.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.ptcblubpinguim.TabIndex = 20;
             this.ptcblubpinguim.TabStop = false;
-<<<<<<< HEAD
-=======
+
             // 
             // txtDescricao
             // 
@@ -87,7 +86,7 @@ namespace LojahAbc
             this.lblDescricao.Size = new System.Drawing.Size(84, 20);
             this.lblDescricao.TabIndex = 2;
             this.lblDescricao.Text = "Descrição:";
->>>>>>> bba9dfae79ec3a7c6369ce07296ddf9471969a87
+
             // 
             // txtDescricao
             // 
@@ -99,7 +98,7 @@ namespace LojahAbc
             // 
             // rbtCodigo
             // 
-<<<<<<< HEAD
+
             this.lblDescricao.AutoSize = true;
             this.lblDescricao.Location = new System.Drawing.Point(15, 82);
             this.lblDescricao.Name = "lblDescricao";
@@ -119,17 +118,15 @@ namespace LojahAbc
             // 
             // rbtCodigo
             // 
-=======
->>>>>>> bba9dfae79ec3a7c6369ce07296ddf9471969a87
+
+
             this.rbtCodigo.AutoSize = true;
             this.rbtCodigo.Location = new System.Drawing.Point(65, 31);
             this.rbtCodigo.Name = "rbtCodigo";
             this.rbtCodigo.Size = new System.Drawing.Size(77, 24);
             this.rbtCodigo.TabIndex = 1;
-<<<<<<< HEAD
-=======
+
             this.rbtCodigo.TabStop = true;
->>>>>>> bba9dfae79ec3a7c6369ce07296ddf9471969a87
             this.rbtCodigo.Text = "Código";
             this.rbtCodigo.UseVisualStyleBackColor = true;
             // 

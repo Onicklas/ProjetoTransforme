@@ -16,11 +16,8 @@ namespace LojahAbc
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-<<<<<<< HEAD
             Application.Run(new frmfuncionarios());
-=======
             Application.Run(new frmSplash());
->>>>>>> bba9dfae79ec3a7c6369ce07296ddf9471969a87
         }
     }
 }

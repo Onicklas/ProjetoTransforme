@@ -27,3 +27,4 @@ C:\Users\nicolas.lsilva5\Documents\ProjetoCSharp-transformeSe\LojahAbc\obj\Debug
 C:\Users\nicolas.lsilva5\Documents\ProjetoCSharp-transformeSe\LojahAbc\obj\Debug\LojahAbc.exe
 C:\Users\nicolas.lsilva5\Documents\ProjetoCSharp-transformeSe\LojahAbc\obj\Debug\LojahAbc.pdb
 C:\Users\nicolas.lsilva5\Documents\ProjetoCSharp-transformeSe\LojahAbc\obj\Debug\LojahAbc.frmSobre.resources
+C:\Users\nicolas.lsilva5\Documents\Visual Studio 2019\TRANSformeSe\LojahAbc\obj\Debug\LojahAbc.frmSobre.resources

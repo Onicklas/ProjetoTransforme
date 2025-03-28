@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Componentes", "Componente\C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\Calculadora.csproj", "{C143A0F5-9DC7-4A78-A073-52FE965CDE3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controle fluxo", "Controle fluxo\Controle fluxo.csproj", "{CFF2B892-4A1D-4053-AEC4-DA6C280B0EA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C143A0F5-9DC7-4A78-A073-52FE965CDE3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C143A0F5-9DC7-4A78-A073-52FE965CDE3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C143A0F5-9DC7-4A78-A073-52FE965CDE3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFF2B892-4A1D-4053-AEC4-DA6C280B0EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF2B892-4A1D-4053-AEC4-DA6C280B0EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF2B892-4A1D-4053-AEC4-DA6C280B0EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF2B892-4A1D-4053-AEC4-DA6C280B0EA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
